@@ -1,0 +1,8 @@
+{
+  "name": "Veritas AI - Fake News Detector",
+  "description": "A multi-modal fake news detection system using Gemini 2.5 to analyze text, images, and URLs for authenticity, satire, and manipulation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
